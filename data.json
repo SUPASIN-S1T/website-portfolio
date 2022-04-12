@@ -1,0 +1,63 @@
+{
+    "result": [
+        {
+            "work_name": "Thailandipfair 2021",
+            "work_detail": "landing page",
+            "work_link": "https://thailandipfair.com/",
+            "work_img": "img/logo/ipfair.png",
+            "work_employer": "in2it",
+            "work_type": [
+                "html",
+                "css",
+                "bootstrap"
+            ]
+        },
+        {
+            "work_name": "MEDCHIC Innovation Day 2021",
+            "work_detail": "landing page",
+            "work_link": "Closed",
+            "work_img": "img/logo/medchic.png",
+            "work_employer": "in2it",
+            "work_type": [
+                "html",
+                "css",
+                "bootstrap"
+            ]
+        },
+        {
+            "work_name": "HOOK Conference",
+            "work_detail": "landing page",
+            "work_link": "https://hookconference.com/",
+            "work_img": "img/logo/hook.png",
+            "work_employer": "in2it",
+            "work_type": [
+                "wordpress"
+            ]
+        },
+        {
+            "work_name": "Blackitch Artisan Kitchen",
+            "work_detail": "landing page",
+            "work_link": "http://www.blackitch.com/",
+            "work_img": "img/logo/blackitch.png",
+            "work_employer": "in2it",
+            "work_type": [
+                "html",
+                "css",
+                "jquery",
+                "bootstrap",
+                "owl carousel"
+            ]
+        },
+        {
+            "work_name": "Chiang Mai Blooms 2022",
+            "work_detail": "form register, form login",
+            "work_link": "https://chiangmaiblooms.com/",
+            "work_img": "img/logo/CMB.png",
+            "work_employer": "in2it",
+            "work_type": [
+                "html",
+                "css"
+            ]
+        }
+    ]
+}
